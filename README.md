@@ -1,4 +1,4 @@
-# REVIEW_DETECTOR
+# REVIEW_ANALYZER
 
 A NLP model which can detect whether the customer review for a particular restaurant is positive or not based.
 The model is trained for around 800 restaurant and the testing and prediction was implemented on 200 restaurant.
